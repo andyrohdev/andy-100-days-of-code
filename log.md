@@ -19,12 +19,12 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: September 3, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I started the 30 days of code challenge on HackerRank. I also did some bug fixing on my portfolio website.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I'm really glad that I have started this challenge and hopefully will see great progress at the end of this.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**:
+1. [30 Days of Code on HackerRank](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+2. [Portfolio Website](https://andyrohdev.github.io/portfolio-website/)
