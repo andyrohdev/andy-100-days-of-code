@@ -53,3 +53,14 @@
 **Link(s) to work**:
 1. [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
 
+### Day 5: September 16, Monday
+
+**Today's Progress**: After a short break to recover from burnout, I got back into the challenge by applying to jobs, continuing with HackerRank challenges, and diving into Unity to create a test game.
+
+**Thoughts**: Taking a break was necessary, but I'm excited to be back. Exploring Unity was particularly interesting because its interface feels similar to video editing software, which I'm familiar with. I can see myself experimenting more with Unity and perhaps even making a horror game in the future!
+
+**Link(s) to work**:
+1. [HackerRank Challenges](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+2. [Unity Test Game](https://play.unity.com/en/games/1b7c0bbc-ef5f-4f03-b245-4640abc2136c/webgl-builds)
+
+
