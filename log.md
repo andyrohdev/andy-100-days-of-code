@@ -63,4 +63,13 @@
 1. [HackerRank Challenges](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 2. [Unity Test Game](https://play.unity.com/en/games/1b7c0bbc-ef5f-4f03-b245-4640abc2136c/webgl-builds)
 
+### Day 6: September 16, Monday
+
+**Today's Progress**: I finished an old front-end project that I started during Tech Elevator and fixed the issue where my resume wasn't being prompted properly when the button was pressed.
+
+**Thoughts**: It feels great to revisit and wrap up projects that have been on my mind for a while. Fixing that resume button bug was satisfying, and I’m looking forward to pushing forward with more improvements!
+
+**Link(s) to work**:
+1. [Portfolio Website](https://andyrohdev.github.io/portfolio-website/)
+2. [Typing Test Project](https://andyrohdev.github.io/typingtest-project/)
 
