@@ -63,7 +63,7 @@
 1. [HackerRank Challenges](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 2. [Unity Test Game](https://play.unity.com/en/games/1b7c0bbc-ef5f-4f03-b245-4640abc2136c/webgl-builds)
 
-### Day 6: September 16, Monday
+### Day 6: October 3, Thursday
 
 **Today's Progress**: I finished an old front-end project that I started during Tech Elevator and fixed the issue where my resume wasn't being prompted properly when the button was pressed.
 
@@ -73,3 +73,17 @@
 1. [Portfolio Website](https://andyrohdev.github.io/portfolio-website/)
 2. [Typing Test Project](https://andyrohdev.github.io/typingtest-project/)
 
+### Day 7: October 4, Friday
+
+**Today's Progress**: Today was challenging as I worked on getting the Web API up and running for my Spotify Profile Statistics Viewer. This is also my first time using **React**, so I’ve been getting familiar with the framework while troubleshooting the API issues. I wasn’t able to get it working just yet, but I’m learning a lot.
+
+**Thoughts**: It’s frustrating, but I’m making progress, and I’m confident things will come together as I keep pushing forward.
+
+### Day 8: October 5, Saturday
+
+**Today's Progress**: After a lot of effort, I finally got the Web API working locally! However, hosting the project on GitHub Pages has been tricky, and as of now, the project is not fully functioning. I’ll need to explore other options for deployment, but I’m determined to get it working. 
+
+**Thoughts**: This project is a big learning experience, especially with **React** being new to me. It’s not working fully yet, but I’m optimistic and will keep updating it as I make progress.
+
+**Link(s) to work**:
+- https://andyrohdev.github.io/spotify-profile-overview/
