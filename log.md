@@ -87,3 +87,13 @@
 
 **Link(s) to work**:
 - https://andyrohdev.github.io/spotify-profile-overview/
+
+- ### Day 9: October 7, Monday
+
+**Today's Progress**: Today was a great day of progress for my Spotify Profile Overview application! I finally fixed a bug that caused the GitHub Pages error where users were being redirected twice. After spending a few hours troubleshooting, I managed to get the profile component working and added some CSS to polish the UI. I also resolved a 403 error related to how tokens were handled. To top it off, the app is now working on my friend’s machine!
+
+**Thoughts**: I feel like React has been a game-changer. I’m learning so much about how to build better user interfaces and solve tricky problems. Next, I’ll be focusing on building the sidebar and expanding the feature set!
+
+**Link(s) to work**:
+- [Spotify Profile Overview](https://andyrohdev.github.io/spotify-profile-overview/)
+
