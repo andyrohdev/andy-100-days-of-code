@@ -97,6 +97,16 @@
 **Link(s) to work**:
 - [Spotify Profile Overview](https://andyrohdev.github.io/spotify-profile-overview/)
 
+### Day 10: October 8, Tuesday
+
+**Today's Progress**: Continued work on my Spotify Profile Overview side project. I added styling changes and built the sidebar to bring the app together visually. I faced quite a few bugs this time since I hadn’t coded the profile component with the sidebar in mind, but I worked through the issues and got everything functioning smoothly.
+
+**Thoughts**: It’s exciting to see the app come together visually, and although the bugs were frustrating, I’m happy with the progress I made today. Next up, I’ll focus on refining the overall UI and adding more features.
+
+**Link(s) to work**:
+- [Spotify Profile Overview](https://andyrohdev.github.io/spotify-profile-overview/)
+
+
 ### Day 11: October 9, Wednesday
 
 **Today's Progress**: Today I completed the **TopArtists** and **TopTracks** React components for my Spotify Profile Overview project. After finishing the TopArtists component, I was able to reuse the code to quickly complete the TopTracks component with only slight changes. Both features are now live! I had to cut the day short due to car repairs but made solid progress.
