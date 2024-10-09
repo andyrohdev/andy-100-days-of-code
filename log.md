@@ -97,3 +97,11 @@
 **Link(s) to work**:
 - [Spotify Profile Overview](https://andyrohdev.github.io/spotify-profile-overview/)
 
+### Day 11: October 9, Wednesday
+
+**Today's Progress**: Today I completed the **TopArtists** and **TopTracks** React components for my Spotify Profile Overview project. After finishing the TopArtists component, I was able to reuse the code to quickly complete the TopTracks component with only slight changes. Both features are now live! I had to cut the day short due to car repairs but made solid progress.
+
+**Next Steps**: I'll work on the **Recent** section next and make the artist and track cards clickable. Still waiting for Spotify to verify the app, which may limit access temporarily.
+
+**Link(s) to work**:
+- [Spotify Profile Overview](https://andyrohdev.github.io/spotify-profile-overview/)
