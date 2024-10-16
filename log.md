@@ -115,3 +115,13 @@
 
 **Link(s) to work**:
 - [Spotify Profile Overview](https://andyrohdev.github.io/spotify-profile-overview/)
+
+### Day 12: October 16, Wednesday
+
+**Today's Progress**: Today, I continued working on my Spotify Profile Overview project. I created the **Recents** page, which was fairly simple as it followed the same structure as other sections. I also made artist names on the track cards clickable, leading to an **artist details page** that displays follower counts, genres, popularity, top tracks, recent albums, and related artists. This was tricky, as some routing issues caused CSS alignment problems, but I managed to get everything working.
+
+**Next Steps**: I’ll continue refining the artist details page and improve the routing setup to avoid future issues.
+
+**Link(s) to work**:
+- [Spotify Profile Overview](https://andyrohdev.github.io/spotify-profile-overview/)
+
